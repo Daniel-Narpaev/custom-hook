@@ -1,11 +1,9 @@
+
 body {
+  width: 1365px;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+  background-image:url("https://cdn.oboi7.com/static/images/m/86/44/8644507688bc2623456a8db6cff9e0364e24152e.jpg");
+  background-size:cover; }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
